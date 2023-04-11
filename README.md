@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as Data Engineer
 - 🌱 Love to learning, actually trying to master Airflow, Kafka, Pyspark
-- 📫 How to reach me: leandro.bueno@eleflow.com.br
+- 📫 How to reach me: leandro_bueno@hotmail.com.br
 - ⚡ Fun fact: I'am a Physics Engineer student
  
 
